@@ -1,15 +1,15 @@
-#### ⌨ Top Languages and Tools:
+#### ⌨ Most used Programming languages and Tools:
 
-[<img align="left" alt="Node.js" width="32px" height="32px" src="/media/logos/nodejs.png" />](#)
-[<img align="left" alt="PHP 8" width="32px" height="32px" src="/media/logos/php8.png" />](#)
-[<img align="left" alt="Python" width="32px" height="32px" src="/media/logos/python.png" />](#)
-[<img align="left" alt="JavaScript" width="32px" height="32px" src="/media/logos/javascript.png" />](#)
-[<img align="left" alt="Vue.js" width="32px" height="32px" src="/media/logos/vuejs.png" />](#)
-[<img align="left" alt="Nuxt.js" width="32px" height="32px" src="/media/logos/nuxtjs.png" />](#)
-[<img align="left" alt="Laravel" width="32px" height="32px" src="/media/logos/laravel.png" />](#)
-[<img align="left" alt="Docker" width="32px" height="32px" src="/media/logos/docker.png" />](#)
-[<img align="left" alt="MongoDB" width="32px" height="32px" src="/media/logos/mongodb.png" />](#)
-[<img align="left" alt="MySQL" width="32px" height="32px" src="/media/logos/mysql.png" />](#)
+[<img align="left" alt="Node.js" width="48px" height="48px" src="/media/logos/nodejs.png" />](#)
+[<img align="left" alt="PHP 8" width="48px" height="48px" src="/media/logos/php8.png" />](#)
+[<img align="left" alt="Python" width="48px" height="48px" src="/media/logos/python.png" />](#)
+[<img align="left" alt="JavaScript" width="48px" height="48px" src="/media/logos/javascript.png" />](#)
+[<img align="left" alt="Vue.js" width="48px" height="48px" src="/media/logos/vuejs.png" />](#)
+[<img align="left" alt="Nuxt.js" width="48px" height="48px" src="/media/logos/nuxtjs.png" />](#)
+[<img align="left" alt="Laravel" width="48px" height="48px" src="/media/logos/laravel.png" />](#)
+[<img align="left" alt="Docker" width="48px" height="48px" src="/media/logos/docker.png" />](#)
+[<img align="left" alt="MongoDB" width="48px" height="48px" src="/media/logos/mongodb.png" />](#)
+[<img align="left" alt="MySQL" width="48px" height="48px" src="/media/logos/mysql.png" />](#)
 
 
 <!--
