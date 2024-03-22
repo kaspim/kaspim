@@ -9,8 +9,8 @@ Full-stack developer at JABLOTRON • Online project consultant at PRECIOSA
 - ✉️ You can contact me at [hello@martinkaspar.net](mailto:hello@martinkaspar.net)
 - 📈 I work mostly with technologies:
 
-![/media/technologies/nodejs.png](https://nodejs.org/)
 [<img align="left" alt="Node.js" width="48px" height="48px" src="/media/technologies/nodejs.png" />](https://nodejs.org/)
+[<img align="left" alt="Node.js" width="48px" height="48px" src="/media/technologies/php.png" />](https://www.php.net/)
 
 <!--
 
