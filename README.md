@@ -10,6 +10,7 @@ Full-stack developer at JABLOTRON • Online project consultant at PRECIOSA
 - 📈 I work mostly with technologies:
 
 ![/media/technologies/nodejs.png](https://nodejs.org/)
+[<img align="left" alt="Node.js" width="48px" height="48px" src="/media/technologies/nodejs.png" />](https://nodejs.org/)
 
 <!--
 
