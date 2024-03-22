@@ -1,3 +1,18 @@
+Hi, my name is Martin Kašpar
+==============================
+
+Full-stack developer at JABLOTRON ALARMS • Online project consultant at PRECIOSA Group
+------------------------------------------------
+
+- 🌍 I'm based in Czech Republic
+- 💻 See my website at [www.martinkaspar.net](http://www.martinkaspar.net) or follow me on [LinkedIn](https://www.linkedin.com/in/kaspim)
+- ✉️ You can contact me at [hello@martinkaspar.net](mailto:hello@martinkaspar.net)
+- 📈 I work mostly with technologies:
+
+![media/technologies/nodejs.png](https://nodejs.org/)
+
+<!--
+
 #### ⌨ Most used Programming languages and Tools:
 
 [<img align="left" alt="Node.js" width="48px" height="48px" src="/media/logos/nodejs.png" />](#)
@@ -12,7 +27,6 @@
 [<img align="left" alt="MySQL" width="48px" height="48px" src="/media/logos/mysql.png" />](#)
 
 
-<!--
 **kaspim/kaspim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
