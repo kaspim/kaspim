@@ -1,7 +1,7 @@
 Hi, my name is Martin Kašpar
 ==============================
 
-Full-stack developer at JABLOTRON ALARMS • Online project consultant at PRECIOSA Group
+Full-stack developer at JABLOTRON • Online project consultant at PRECIOSA
 ------------------------------------------------
 
 - 🌍 I'm based in Czech Republic
@@ -9,7 +9,7 @@ Full-stack developer at JABLOTRON ALARMS • Online project consultant at PRECIO
 - ✉️ You can contact me at [hello@martinkaspar.net](mailto:hello@martinkaspar.net)
 - 📈 I work mostly with technologies:
 
-![media/technologies/nodejs.png](https://nodejs.org/)
+![/media/technologies/nodejs.png](https://nodejs.org/)
 
 <!--
 
