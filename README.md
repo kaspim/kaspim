@@ -7,8 +7,7 @@
 - ✉️ You can contact me at [hello@martinkaspar.net](mailto:hello@martinkaspar.net)
 - 📈 I work mostly with the following technologies
 
-<img align="left" alt="TypeScript" width="48px" height="48px" src="/media/technologies/typescript.svg" />
-<img align="left" alt="PHP" width="48px" height="48px" src="/media/technologies/php.svg" />
+[<img align="left" alt="TypeScript" width="48px" height="48px" src="/media/technologies/typescript.svg" />](https://www.typescriptlang.org/)[<img align="left" alt="PHP" width="48px" height="48px" src="/media/technologies/php.svg" />](https://www.php.net/)[<img align="left" alt="Python" width="48px" height="48px" src="/media/technologies/python.svg" />](https://www.python.org/)[<img align="left" alt="Node.js" width="48px" height="48px" src="/media/technologies/nodejs.svg" />](https://nodejs.org/)[<img align="left" alt="Express.js" width="48px" height="48px" src="/media/technologies/expressjs.svg" />](https://expressjs.com/)[<img align="left" alt="Adonis" width="48px" height="48px" src="/media/technologies/adonis.svg" />](https://adonisjs.com/)[<img align="left" alt="Laravel" width="48px" height="48px" src="/media/technologies/laravel.svg" />](https://laravel.com/)
 
 <!--
 
