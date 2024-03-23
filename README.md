@@ -23,7 +23,8 @@
 [<img style="margin: 4px; width: 44px; height: 44px" alt="MongoDB" width="44px" height="44px" src="/media/technologies/mongodb.svg" />](https://www.mongodb.com/)
 [<img style="margin: 4px; width: 44px; height: 44px" alt="Jest" width="44px" height="44px" src="/media/technologies/jest.svg" />](https://jestjs.io/)
 [<img style="margin: 4px; width: 44px; height: 44px" alt="Docker" width="44px" height="44px" src="/media/technologies/docker.svg" />](https://www.docker.com/)
-[<img style="margin: 4px; width: 44px; height: 44px" alt="Sentry" width="44px" height="44px" src="/media/technologies/sentry.svg" />](https://sentry.io/)
+[<img style="margin: 4px; width: 44px; height: 44px" alt="CloudFlare" width="44px" height="44px" src="/media/technologies/cloudflare.svg" />](https://www.cloudflare.com/)
+[<img style="margin: 4px; width: 44px; height: 44px" alt="Sentry" width="44px" height="44px" src="/media/technologies/sentry.svg" />](https://sentry.io//)
 
 <!--
 
